@@ -1,3 +1,0 @@
-name:narayani
-age:26
-email:ghatwaing@gmail.com
